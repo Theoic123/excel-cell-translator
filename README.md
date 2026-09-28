@@ -6,7 +6,7 @@ A small Windows tray utility for translating Excel cells and selected text betwe
 
 [下载 Windows 版本](https://github.com/Theoic123/excel-cell-translator/releases/latest) · [详细使用说明](使用说明.md) · [报告问题](https://github.com/Theoic123/excel-cell-translator/issues) · [仅限使用许可](LICENSE)
 
-**许可：允许使用，未经作者书面许可禁止修改和再分发。** 本项目公开源码供查看及原样编译使用，采用自定义的仅限使用许可，不属于开源软件。GitHub 平台条款允许的站内查看 / Fork 等权利不受此声明限制，具体以 [LICENSE](LICENSE) 为准。
+本项目公开源码供查看及原样编译使用，采用自定义的仅限使用许可，不属于开源软件。GitHub 平台条款允许的站内查看 / Fork 等权利不受此声明限制，具体以 [LICENSE](LICENSE) 为准。
 
 ## 功能
 
