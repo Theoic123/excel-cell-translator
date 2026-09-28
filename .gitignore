@@ -1,0 +1,28 @@
+# Build outputs and local packages
+*.exe
+*.dll
+*.pdb
+*.zip
+/dist/
+/release-notes.md
+
+# Local test output; curated public images live in docs/images
+/*-test.txt
+/preview.png
+/popup-preview.png
+/service-settings-preview.png
+
+# Credentials / local state
+.env
+.env.*
+provider-settings.json
+*.key
+*.pfx
+*.p12
+
+# Editor and OS files
+.vs/
+.vscode/
+*.user
+Thumbs.db
+Desktop.ini

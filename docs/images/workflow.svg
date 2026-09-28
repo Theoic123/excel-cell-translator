@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="400" viewBox="0 0 1120 400" role="img" aria-labelledby="title desc">
+  <title id="title">Excel 单元格翻译操作示意</title>
+  <desc id="desc">第一步选中文字，第二步在 Excel 原生右键菜单选择翻译，第三步查看浮窗，切换选区后关闭。此图为流程示意，并非 Excel 截图。</desc>
+  <rect width="1120" height="400" rx="18" fill="#f3f6fb"/>
+  <g font-family="Microsoft YaHei, Segoe UI, sans-serif">
+    <text x="32" y="42" font-size="24" fill="#182942" font-weight="700">Excel 翻译 · 三步查看译文</text>
+    <text x="32" y="68" font-size="14" fill="#65758c">操作示意图 / 示例内容，非实机截图</text>
+    <g fill="#fff" stroke="#dbe2ed"><rect x="32" y="92" width="320" height="238" rx="12"/><rect x="400" y="92" width="320" height="238" rx="12"/><rect x="768" y="92" width="320" height="238" rx="12"/></g>
+    <g fill="#2267c9" font-size="18" font-weight="700"><text x="54" y="128">01  选中单元格或局部文字</text><text x="422" y="128">02  在原生右键菜单中翻译</text><text x="790" y="128">03  译文浮窗就近显示</text></g>
+    <rect x="54" y="156" width="276" height="56" fill="#eaf6ef" stroke="#23844e" stroke-width="2"/>
+    <text x="67" y="191" font-size="19" fill="#182942">Hello world</text>
+    <text x="54" y="251" font-size="15" fill="#46566e">整格：单击选中</text><text x="54" y="279" font-size="15" fill="#46566e">局部：F2 后拖选一段文字</text>
+    <rect x="422" y="153" width="276" height="154" rx="5" fill="#fafbfd" stroke="#d6deea"/>
+    <g font-size="15" fill="#46566e"><text x="440" y="182">剪切</text><text x="440" y="210">复制</text><text x="440" y="238">粘贴</text></g>
+    <rect x="430" y="254" width="260" height="36" rx="4" fill="#e4efff"/>
+    <text x="441" y="278" font-size="16" fill="#1857ab" font-weight="700">翻译（中英自动切换）</text>
+    <rect x="790" y="154" width="276" height="137" rx="10" fill="#fff" stroke="#c6d6eb"/>
+    <text x="809" y="183" font-size="17" fill="#182942" font-weight="700">English → 中文</text>
+    <path d="M808 199 H1048" stroke="#e0e6ef"/>
+    <text x="809" y="244" font-size="27" fill="#1857ab">你好，世界</text>
+    <g fill="#6f8cb4" font-size="30"><text x="364" y="219">→</text><text x="732" y="219">→</text></g>
+    <text x="32" y="367" font-size="16" fill="#46566e">原文保持不变 · 切换选区后浮窗消失 · 局部选文也可使用 Ctrl+Alt+T</text>
+  </g>
+</svg>

@@ -1,0 +1,50 @@
+Excel Cell Translator — Use-Only License 1.0
+
+Copyright (c) 2026 Theoic123. All rights reserved.
+
+1. Permission to use
+The copyright holder permits you, free of charge, to download, install, run,
+and use unmodified copies of this software for your own personal use or your
+organization's internal use. You may inspect the published source and compile
+it without changes solely for that permitted use. You may make the copies
+reasonably necessary for that use and for backup. Keep all copyright and
+license notices with such copies.
+
+2. No modification or redistribution
+Unless you first obtain the copyright holder's written permission, you may not
+modify, adapt, translate the program code, or create derivative works of this
+software; redistribute, republish, sublicense, sell, rent, or provide copies
+of its source code or compiled program to third parties; or incorporate the
+software or its code into another distributed product. Linking others to the
+copyright holder's original repository or download page is permitted.
+
+Normal configuration through the program's settings, entering your own API
+keys, and translating your own text are permitted uses, not modifications.
+This license does not restrict your rights in your input text or translations.
+
+3. GitHub platform and mandatory rights
+For content that the copyright holder makes public on GitHub, this license
+does not limit rights that the copyright holder grants under the applicable
+GitHub Terms of Service, including viewing and forking within GitHub's service.
+That platform permission does not grant additional permission under this
+license to modify the software or redistribute it outside those platform
+rights. This license does not override rights that applicable law does not
+permit the copyright holder to restrict.
+
+4. Third-party components and services
+This license covers only material owned by the copyright holder. Windows,
+Microsoft Excel, and third-party translation services are subject to their
+own licenses and terms. No rights in their trademarks are granted.
+
+5. Disclaimer
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE, AND NON-INFRINGEMENT. TO THE EXTENT PERMITTED BY APPLICABLE LAW, THE
+COPYRIGHT HOLDER SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY
+ARISING FROM OR IN CONNECTION WITH THE SOFTWARE OR ITS USE.
+
+6. Reservation of rights
+All permissions not expressly granted above are reserved. This is a
+source-available, use-only license, not an open-source license.
+For additional permission, contact the repository owner at
+https://github.com/Theoic123/excel-cell-translator/issues.
