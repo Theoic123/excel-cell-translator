@@ -16,6 +16,7 @@
 .env
 .env.*
 provider-settings.json
+provider-settings.json.*
 *.key
 *.pfx
 *.p12
